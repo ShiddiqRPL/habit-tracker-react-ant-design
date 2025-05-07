@@ -75,7 +75,6 @@ To install and run the app locally:
 
 - **React** for building the user interface.
 - **React Router** for routing and navigation.
-- **Styled Components** for styling.
 - **Ant Design** for pre-built UI components.
 - **React Context** or **Redux** for state management (depending on the implementation).
   
