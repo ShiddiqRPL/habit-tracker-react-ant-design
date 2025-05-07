@@ -55,11 +55,11 @@ To install and run the app locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/habit-tracker-app.git
+    git clone https://github.com/ShiddiqRPL/habit-tracker-react-ant-design.git
     ```
 2. Navigate into the project folder:
     ```bash
-    cd habit-tracker-app
+    cd habit-tracker-react-ant-design
     ```
 3. Install dependencies:
     ```bash
