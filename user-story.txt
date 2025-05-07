@@ -1,0 +1,17 @@
+- the app is to record habits
+- the main view is list of pinned habits up to 5 items, with readable version of last record date time data 
+- if there is less then 5 habits saved, non pinned habit will be listed in the main list view right after the pinned one if any
+- we can add new history of habit by tapping on the habit list
+- when we add new habit history record there will be confirmation dialog to confirm the add process, additionally with cancel button to abort the process
+- when add process confirmed data on the main view will be updated with the new info
+- right after the pinned list if any, there is a button to add new habit record (for all habit)
+- after clicking add new habit record we change the view to all habit data list sorted alphabetically A-Z 0-9
+- the all habit data list can be similar with the main list view
+- we can search by habit names with search box on the top of all habit data list
+- the way how to add record history from all habit data can be the same as how to add habit record of pinned habit in the main view
+- there is also floating add button to add new habit data
+- there is action button on the habit data list that when clicked show option for edit and delete process
+- if delete is clicked show confirmation dialog to confirm deletion process
+- lastly there is side menu drawer that have some menus on the left side with menu: all habit data, habit report, about app.
+- the report can be generated monthly or weekly or chosen date range
+- the report consist of list of habit name with average habit counter across report date range
